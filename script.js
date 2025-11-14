@@ -1,4 +1,4 @@
-/*  //Q:1. Ek alert show karo jo “Hello Students!” likha ho.
+//Q:1. Ek alert show karo jo “Hello Students!” likha ho.
 alert("Hello Students!")
 
 //Q:2. Ek variable name banao aur usme apna naam store karo, phir console.log() se show karo.
@@ -158,7 +158,7 @@ console.log($x === $y)
 // . 70-79: “B”
 // . 60-69: “C”
 // . 50-59: “D”
-// . 50 se kam: “Fail” */
+// . 50 se kam: “Fail”
 var _marks = Number(prompt("Enter your marks..!  (0 To 100)"))
 if(_marks >= 90){
     alert("Congratulations you got A+ Grade..!")
